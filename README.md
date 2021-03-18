@@ -1,4 +1,4 @@
-![](https://ih1.redbubble.net/image.238544439.8540/st,small,845x845-pad,1000x1000,f8f8f8.u3.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo-fiuba_big.png)
 ![](https://programacion.net/files/article/20160603020635_python-logo.png)
 
 ## PROYECTO: PROGRAMA DE VENTA DE PASAJES AEREOS
